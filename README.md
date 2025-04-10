@@ -20,7 +20,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# 🧠 Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+#  🧠 Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 Projeto desenvolvido para o Lab da DIO, inspirado na tendência "Natty or Not", adaptada ao universo da Inteligência Artificial. Aqui, você decide: o conteúdo é natural ou totalmente gerado por IA?
 
